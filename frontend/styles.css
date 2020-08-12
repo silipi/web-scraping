@@ -16,16 +16,20 @@ body {
   margin: 0 auto;
   width: 80%;
 }
+
 header {
   margin: 3rem 0;
 }
+
 header h1 {
   text-align: center;
   color: #1dd1a1;
 }
+
 header p {
   text-align: center;
 }
+
 header p span {
   color: #10ac84;
   font-weight: bold;
