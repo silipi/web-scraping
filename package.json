@@ -1,0 +1,14 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "A simple app to web scrap the IMDb website to get all the movies pictures.",
+  "main": "index.js",
+  "scripts": {
+    "scraping": "node server.js"
+  },
+  "author": "@silipi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
